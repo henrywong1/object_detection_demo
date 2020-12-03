@@ -1,6 +1,6 @@
 <annotation>
 	<folder>train</folder>
-	<filename>52.JPG</filename>
+	<filename>52.jpg</filename>
 	<path>/home/amenor/Tensorflow/models/research/object_detection/images/train/52.JPG</path>
 	<source>
 		<database>Unknown</database>

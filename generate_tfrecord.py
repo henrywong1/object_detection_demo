@@ -75,7 +75,7 @@ def create_tf_example(group, path, label_map):
         class_index = label_map.get(row["class"])
         assert (
             class_index is not None
-        ), "class label: `{}` not found in label_map: {}".format(
+        ), "class label: `{}` not found in label_map: {} ,in file`{filename}` ".format(
             row["class"], label_map
         )
         classes.append(class_index)

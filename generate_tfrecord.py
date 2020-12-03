@@ -65,7 +65,7 @@ def create_tf_example(group, path, label_map):
     ymaxs = []
     classes_text = []
     classes = []
-    print("File: " + filename)
+    print("File: " + str(filename))
     for index, row in group.object.iterrows():
         xmins.append(row["xmin"] / width)
         xmaxs.append(row["xmax"] / width)

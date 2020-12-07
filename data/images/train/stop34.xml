@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>stop34.jpg</filename>
+	<path>/home/amenor/seniorProject/stopsigndatasetCompressed-12.6.20/train/stop34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop sign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>53</ymin>
+			<xmax>800</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

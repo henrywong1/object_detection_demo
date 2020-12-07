@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>stoptest2.jpg</filename>
+	<path>/home/amenor/seniorProject/stopsigndatasetCompressed-12.6.20/test/stoptest2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>233</ymin>
+			<xmax>374</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
